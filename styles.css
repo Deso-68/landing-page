@@ -3,3 +3,45 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(/landing-page/fonts/Roboto-Italic-VariableFont_wdth\,wght.ttf);
+    font-weight: 100 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(/landing-page/fonts/Roboto-VariableFont_wdth\,wght.ttf);
+    font-weight: 100 900;
+    font-style: normal;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+div.header {
+    display: flex;
+}
+
+div.main {
+    display: flex;
+}
+
+div.info-container {
+    display: flex;
+}
+
+div.testimonial-container {
+    display: flex;
+}
+
+div.signup-container {
+    display: flex;
+}
+
+div.footer {
+    display: flex;
+}
