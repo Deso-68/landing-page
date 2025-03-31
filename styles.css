@@ -103,3 +103,10 @@ and the p element in hero-content*/
     color: #1f2937;
     font-weight: 900;
 }
+
+.info-container ul {
+    list-style-type: none;
+    display: flex;
+    padding: 8px 264px 128px 264px;
+    gap: 16px;
+}
