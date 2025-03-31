@@ -110,3 +110,8 @@ and the p element in hero-content*/
     padding: 8px 264px 128px 264px;
     gap: 16px;
 }
+
+.info-container ul li {
+    display: flex;
+    flex-direction: column;
+}
