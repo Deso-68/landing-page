@@ -60,6 +60,7 @@ and the p element in hero-content*/
     display: flex;
     justify-content: space-between;
     height: 220px;
+    gap: 16px;
 }
 
 /* into flexbox, cross axis */
