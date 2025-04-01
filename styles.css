@@ -137,6 +137,12 @@ and the p element in hero-content*/
     font-style: italic;
     display: flex;
     flex-direction: column;
-    justify-content: stretch;
     padding: 81px 360px 81px 360px;
+}
+
+.quote-author {
+    align-self: flex-end;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 16px;
 }
