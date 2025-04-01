@@ -135,4 +135,8 @@ and the p element in hero-content*/
     font-weight: 300;
     color: #1f2937;
     font-style: italic;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    padding: 81px 360px 81px 360px;
 }
