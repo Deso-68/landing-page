@@ -96,6 +96,7 @@ and the p element in hero-content*/
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 8px 264px 128px 264px;
 }
 
 .info-container h3 {
@@ -107,8 +108,8 @@ and the p element in hero-content*/
 .info-container ul {
     list-style-type: none;
     display: flex;
-    padding: 8px 264px 128px 264px;
-    gap: 16px;
+    gap: 32px;
+    justify-content: center;
 }
 
 .info-container ul li {
