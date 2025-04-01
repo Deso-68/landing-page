@@ -177,3 +177,13 @@ and the p element in hero-content*/
     border-radius: 8px;
     border: 2px solid #e5e7eb;
 }
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+    color: #e5e7eb;
+    font-size: 12px;
+
+}
