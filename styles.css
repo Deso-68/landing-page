@@ -69,6 +69,7 @@ and the p element in hero-content*/
     display: flex;
     flex-direction: column;
     max-width: 40%;
+    height: 250px;
 }
 /* styles the text */
 #hero-main-text {
@@ -90,7 +91,8 @@ and the p element in hero-content*/
 
 .hero-container img {
     display: flex;
-    width: 550px;
+    width: 500px;
+    height: 250px;
 }
 
 .info-container {
