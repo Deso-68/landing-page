@@ -115,4 +115,8 @@ and the p element in hero-content*/
 .info-container ul li {
     display: flex;
     flex-direction: column;
+    color: #1f2937;
+    width: 140px;
+    height: auto;
+    text-align: center;
 }
