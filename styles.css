@@ -10,6 +10,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-size: 18px;
 }
 
 body {
@@ -145,4 +146,34 @@ and the p element in hero-content*/
     font-size: 24px;
     font-weight: 700;
     margin-top: 16px;
+}
+
+.signup-container {
+    padding: 96px 240px 96px 240px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    color: #e5e7eb;
+}
+
+.signup-box {
+    background-color: #3882f6;
+    padding: 46px 120px 46px 120px;
+    border-radius: 8px;;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+    h4 {
+        font-size: 24px;
+    }
+}
+
+.signup-container button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 6px 33px 6px 33px;
+    font-weight: 800;
+    border-radius: 8px;
+    border: 2px solid #e5e7eb;
 }
