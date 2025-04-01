@@ -103,12 +103,13 @@ and the p element in hero-content*/
     padding: 36px;
     color: #1f2937;
     font-weight: 900;
+    font-size: 36px;
 }
 
 .info-container ul {
     list-style-type: none;
     display: flex;
-    gap: 32px;
+    gap: 46px;
     justify-content: center;
 }
 
@@ -116,7 +117,7 @@ and the p element in hero-content*/
     display: flex;
     flex-direction: column;
     color: #1f2937;
-    width: 140px;
+    width: 180px;
     height: auto;
     text-align: center;
     
