@@ -17,6 +17,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+a {
+    text-decoration-line: none;
+}
+
 /* main-container */
 /* wraps the header, and hero-container */
 .main-container-1 {
@@ -190,4 +194,8 @@ and the p element in hero-content*/
     padding: 24px;
     color: #e5e7eb;
     font-size: 12px;
+}
+
+button a {
+    color: #f9faf8;
 }
