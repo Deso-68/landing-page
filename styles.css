@@ -196,6 +196,7 @@ and the p element in hero-content*/
     font-size: 12px;
 }
 
+/* for buttons that has a tag */
 button a {
     color: #f9faf8;
 }
